@@ -18,3 +18,11 @@ Além do aprendizado em *Data Science* possuo foco em mostrar o conhecimento da 
 * [LinkedIn](https://www.linkedin.com/in/renata-rosa-96a309137/)
 * [Medium](https://renata-gabriela98.medium.com/)
 * [Instagram](https://www.instagram.com/renata_gsr/)
+
+**Projetos:**
+
+Projetos realizados utilizando Jupyter Notebook:
+
+* **Análise de Dados do AIRBNB**: [https://bit.ly/3cmZo46](https://bit.ly/3cmZo46)
+* **Análise da Violência do Rio de Janeiro**: [https://bit.ly/3vXmGVU](https://bit.ly/3vXmGVU)
+* **Panorama do COVID-19**: [https://bit.ly/2P5Q5fV](https://bit.ly/2P5Q5fV)
